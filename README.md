@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title> Toko jaya </title>
+        <title> Toko Online </title>
         <style>
             .KOTAKATEH {     
             right: 0;
